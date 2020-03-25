@@ -29,3 +29,5 @@ apt-get install vim
 
 ## Credit
 Following [Go by Example](https://gobyexample.com/). The website provided all of the GO code.
+This work is copyright Mark McGranaghan and licensed under a
+[Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
