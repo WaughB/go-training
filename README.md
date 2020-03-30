@@ -2,7 +2,9 @@
 
 ## Environment
 
-Instead of installing go-lang on my laptop, I am using a Docker instance. 
+For the "Go by Example" exercises, I used a Docker container.
+
+For the "Black Hat Go" exercises, I used my laptop (Windows 10). I used chocolatey to install the other required programs from the book.   
 
 ### Get the image
 
@@ -30,4 +32,6 @@ apt-get install vim
 ## Credit
 Following [Go by Example](https://gobyexample.com/). The website provided all of the GO code.
 This work is copyright Mark McGranaghan and licensed under a
-[Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+[Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
+
+"Black Hat Go Go Programming for Hackers and Pentesters" by Tom Steele, Chris Patten, and Dan Kottmann. February 2020.
